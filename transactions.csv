@@ -1,0 +1,101 @@
+date|time|description|vendor|amount|balance
+2023-05-01|08:30:00|opening deposit|Initial Balance|1000.00|1000.00
+2023-05-01|10:15:22|office supplies|Staples|-45.50|954.50
+2023-05-01|14:20:10|client payment|Acme Corp|1500.00|2454.50
+2023-05-02|09:05:45|coffee beans|Starbucks|-32.75|2421.75
+2023-05-02|11:40:00|desk lamp|IKEA|-60.00|2361.75
+2023-05-02|16:10:30|Invoice 2002 paid|Tech Solutions|800.00|3161.75
+2023-05-03|08:55:10|printer paper|Office Depot|-25.20|3136.55
+2023-05-03|13:25:00|website payment|BlueSky LLC|950.00|4086.55
+2023-05-03|17:45:22|team snacks|Costco|-85.60|4000.95
+2023-05-04|09:10:05|software subscription|Adobe|-120.00|3880.95
+2023-05-04|12:30:30|Invoice 2003 paid|Global Tech|1100.00|4980.95
+2023-05-04|15:50:00|client lunch|Chipotle|-54.25|4926.70
+2023-05-05|10:05:15|office chair|Wayfair|-220.00|4706.70
+2023-05-05|14:45:40|consulting payment|NextGen Inc|1300.00|6006.70
+2023-05-06|09:25:55|internet bill|Comcast|-90.00|5916.70
+2023-05-06|11:15:10|electric bill|City Utilities|-150.00|5766.70
+2023-05-06|16:35:00|Invoice 2004 paid|Bright Future LLC|700.00|6466.70
+2023-05-07|08:40:20|parking fee|Downtown Parking|-20.00|6446.70
+2023-05-07|13:55:35|training course|Udemy|-75.00|6371.70
+2023-05-07|17:20:00|final client payment|Summit Corp|900.00|7271.70
+2023-06-01|09:10:00|morning coffee|Starbucks|-6.50|7265.20
+2023-06-03|11:25:30|client payment|Vertex LLC|1200.00|8465.20
+2023-06-05|14:40:10|office snacks|Trader Joe's|-45.30|8419.90
+2023-06-08|08:15:45|printer repair|Office Depot|-95.00|8324.90
+2023-06-10|12:05:00|Invoice 2005 paid|GreenTech|650.00|8974.90
+2023-06-12|16:30:20|gas refill|Shell|-70.00|8904.90
+2023-06-15|09:50:00|software renewal|Microsoft|-250.00|8654.90
+2023-06-18|13:10:15|consulting income|Alpha Inc|1400.00|10054.90
+2023-06-20|15:45:30|team lunch|Subway|-60.25|9994.65
+2023-06-22|08:20:00|parking|City Parking|-18.00|9976.65
+2023-06-25|11:55:10|Invoice 2006 paid|Nova Corp|875.00|10851.65
+2023-06-28|14:35:50|office decor|Target|-120.75|10730.90
+2023-07-01|09:05:25|internet upgrade|Comcast|-45.00|10685.90
+2023-07-03|12:40:00|client payment|Skyline Ltd|980.00|11665.90
+2023-07-05|16:10:45|coffee supplies|Starbucks|-28.40|11637.50
+2023-07-08|10:00:00|online ads|Google Ads|-300.00|11337.50
+2023-07-10|13:20:30|Invoice 2007 paid|FutureWorks|720.00|12057.50
+2023-07-12|15:55:10|office cleaning|CleanCo|-150.00|11907.50
+2023-07-15|09:30:00|fuel|Chevron|-65.00|11842.50
+2023-07-18|11:45:25|client payment|Delta LLC|1100.00|12942.50
+2023-07-20|14:10:10|team lunch|Chipotle|-82.30|12860.20
+2023-07-22|08:50:00|printer ink|Staples|-55.00|12805.20
+2023-07-25|12:15:45|Invoice 2008 paid|Omega Corp|930.00|13735.20
+2023-07-28|16:40:00|software tools|Adobe|-210.00|13525.20
+2023-08-01|09:25:10|office rent|Landlord|-1200.00|12325.20
+2023-08-03|11:50:00|client payment|Peak Solutions|1600.00|13925.20
+2023-08-05|15:30:30|office supplies|Walmart|-95.60|13829.60
+2023-08-08|08:10:00|coffee|Starbucks|-7.25|13822.35
+2023-08-10|12:05:00|Invoice 2009 paid|BrightPath|880.00|14702.35
+2023-08-12|16:45:00|team dinner|Olive Garden|-150.00|14552.35
+2023-08-15|09:10:00|coffee|Starbucks|-6.75|14545.60
+2023-08-18|11:20:00|client payment|Orion LLC|1250.00|15795.60
+2023-08-20|14:05:10|office snacks|Costco|-85.20|15710.40
+2023-08-22|10:15:45|printer paper|Staples|-40.00|15670.40
+2023-08-25|13:30:00|Invoice 2010 paid|Zenith Corp|990.00|16660.40
+2023-08-28|16:40:30|fuel|Shell|-75.00|16585.40
+2023-09-01|08:50:00|software subscription|Adobe|-120.00|16465.40
+2023-09-03|11:10:10|consulting income|BrightEdge|1350.00|17815.40
+2023-09-05|15:25:00|team lunch|Chipotle|-70.50|17744.90
+2023-09-07|09:05:35|parking|City Parking|-22.00|17722.90
+2023-09-10|12:45:00|Invoice 2011 paid|NextWave|880.00|18602.90
+2023-09-12|14:15:20|office decor|IKEA|-210.00|18392.90
+2023-09-15|10:30:00|internet bill|Comcast|-95.00|18297.90
+2023-09-18|13:50:00|client payment|Apex LLC|1020.00|19317.90
+2023-09-20|16:05:45|coffee supplies|Starbucks|-30.25|19287.65
+2023-09-22|09:40:10|ads expense|Google Ads|-250.00|19037.65
+2023-09-25|11:55:00|Invoice 2012 paid|SkyTech|910.00|19947.65
+2023-09-28|15:20:30|cleaning service|CleanCo|-160.00|19787.65
+2023-10-01|08:25:00|fuel|Chevron|-68.00|19719.65
+2023-10-03|12:10:10|client payment|Nova Solutions|1400.00|21119.65
+2023-10-05|14:45:00|team lunch|Subway|-55.75|21063.90
+2023-10-07|09:15:00|office supplies|Walmart|-95.00|20968.90
+2023-10-10|11:30:00|Invoice 2013 paid|Prime Corp|870.00|21838.90
+2023-10-12|16:10:00|software tools|Microsoft|-220.00|21618.90
+2023-10-15|10:00:00|office rent|Landlord|-1200.00|20418.90
+2023-10-18|13:20:00|client payment|Vertex LLC|1500.00|21918.90
+2023-10-20|15:45:00|printer ink|Office Depot|-65.00|21853.90
+2023-10-22|09:35:00|coffee|Starbucks|-8.00|21845.90
+2023-10-25|12:50:00|Invoice 2014 paid|FutureCorp|920.00|22765.90
+2023-10-28|17:10:00|team dinner|Olive Garden|-180.00|22585.90
+2023-11-01|08:20:00|parking|City Parking|-20.00|22565.90
+2023-11-03|11:40:00|client payment|Delta LLC|1100.00|23665.90
+2023-11-05|14:55:00|office snacks|Trader Joe's|-60.00|23605.90
+2023-11-07|09:10:00|software renewal|Adobe|-130.00|23475.90
+2023-11-10|12:25:00|Invoice 2015 paid|BlueSky LLC|980.00|24455.90
+2023-11-12|16:40:00|fuel|Shell|-72.00|24383.90
+2023-11-15|10:15:00|internet bill|Comcast|-90.00|24293.90
+2023-11-18|13:30:00|client payment|Peak Solutions|1450.00|25743.90
+2023-11-20|15:45:00|team lunch|Chipotle|-75.00|25668.90
+2023-11-22|09:50:00|printer paper|Staples|-50.00|25618.90
+2023-11-25|12:05:00|Invoice 2016 paid|BrightPath|910.00|26528.90
+2023-11-28|16:20:00|cleaning service|CleanCo|-155.00|26373.90
+2023-12-01|08:30:00|coffee|Starbucks|-7.50|26366.40
+2023-12-03|11:45:00|client payment|Summit Corp|1600.00|27966.40
+2023-12-05|14:10:00|office supplies|Walmart|-110.00|27856.40
+2023-12-07|09:25:00|software tools|Microsoft|-240.00|27616.40
+2023-12-10|12:40:00|Invoice 2017 paid|NextGen Inc|1000.00|28616.40
+2023-12-12|15:55:00|team dinner|Olive Garden|-190.00|28426.40
+2023-12-15|10:05:00|office rent|Landlord|-1200.00|27226.40
+2023-12-18|13:20:00|final client payment|Apex LLC|1800.00|29026.40
