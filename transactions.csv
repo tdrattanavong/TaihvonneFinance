@@ -1,101 +1,125 @@
 date|time|description|vendor|amount|balance
-2023-05-01|08:30:00|opening deposit|Initial Balance|1000.00|1000.00
-2023-05-01|10:15:22|office supplies|Staples|-45.50|954.50
-2023-05-01|14:20:10|client payment|Acme Corp|1500.00|2454.50
-2023-05-02|09:05:45|coffee beans|Starbucks|-32.75|2421.75
-2023-05-02|11:40:00|desk lamp|IKEA|-60.00|2361.75
-2023-05-02|16:10:30|Invoice 2002 paid|Tech Solutions|800.00|3161.75
-2023-05-03|08:55:10|printer paper|Office Depot|-25.20|3136.55
-2023-05-03|13:25:00|website payment|BlueSky LLC|950.00|4086.55
-2023-05-03|17:45:22|team snacks|Costco|-85.60|4000.95
-2023-05-04|09:10:05|software subscription|Adobe|-120.00|3880.95
-2023-05-04|12:30:30|Invoice 2003 paid|Global Tech|1100.00|4980.95
-2023-05-04|15:50:00|client lunch|Chipotle|-54.25|4926.70
-2023-05-05|10:05:15|office chair|Wayfair|-220.00|4706.70
-2023-05-05|14:45:40|consulting payment|NextGen Inc|1300.00|6006.70
-2023-05-06|09:25:55|internet bill|Comcast|-90.00|5916.70
-2023-05-06|11:15:10|electric bill|City Utilities|-150.00|5766.70
-2023-05-06|16:35:00|Invoice 2004 paid|Bright Future LLC|700.00|6466.70
-2023-05-07|08:40:20|parking fee|Downtown Parking|-20.00|6446.70
-2023-05-07|13:55:35|training course|Udemy|-75.00|6371.70
-2023-05-07|17:20:00|final client payment|Summit Corp|900.00|7271.70
-2023-06-01|09:10:00|morning coffee|Starbucks|-6.50|7265.20
-2023-06-03|11:25:30|client payment|Vertex LLC|1200.00|8465.20
-2023-06-05|14:40:10|office snacks|Trader Joe's|-45.30|8419.90
-2023-06-08|08:15:45|printer repair|Office Depot|-95.00|8324.90
-2023-06-10|12:05:00|Invoice 2005 paid|GreenTech|650.00|8974.90
-2023-06-12|16:30:20|gas refill|Shell|-70.00|8904.90
-2023-06-15|09:50:00|software renewal|Microsoft|-250.00|8654.90
-2023-06-18|13:10:15|consulting income|Alpha Inc|1400.00|10054.90
-2023-06-20|15:45:30|team lunch|Subway|-60.25|9994.65
-2023-06-22|08:20:00|parking|City Parking|-18.00|9976.65
-2023-06-25|11:55:10|Invoice 2006 paid|Nova Corp|875.00|10851.65
-2023-06-28|14:35:50|office decor|Target|-120.75|10730.90
-2023-07-01|09:05:25|internet upgrade|Comcast|-45.00|10685.90
-2023-07-03|12:40:00|client payment|Skyline Ltd|980.00|11665.90
-2023-07-05|16:10:45|coffee supplies|Starbucks|-28.40|11637.50
-2023-07-08|10:00:00|online ads|Google Ads|-300.00|11337.50
-2023-07-10|13:20:30|Invoice 2007 paid|FutureWorks|720.00|12057.50
-2023-07-12|15:55:10|office cleaning|CleanCo|-150.00|11907.50
-2023-07-15|09:30:00|fuel|Chevron|-65.00|11842.50
-2023-07-18|11:45:25|client payment|Delta LLC|1100.00|12942.50
-2023-07-20|14:10:10|team lunch|Chipotle|-82.30|12860.20
-2023-07-22|08:50:00|printer ink|Staples|-55.00|12805.20
-2023-07-25|12:15:45|Invoice 2008 paid|Omega Corp|930.00|13735.20
-2023-07-28|16:40:00|software tools|Adobe|-210.00|13525.20
-2023-08-01|09:25:10|office rent|Landlord|-1200.00|12325.20
-2023-08-03|11:50:00|client payment|Peak Solutions|1600.00|13925.20
-2023-08-05|15:30:30|office supplies|Walmart|-95.60|13829.60
-2023-08-08|08:10:00|coffee|Starbucks|-7.25|13822.35
-2023-08-10|12:05:00|Invoice 2009 paid|BrightPath|880.00|14702.35
-2023-08-12|16:45:00|team dinner|Olive Garden|-150.00|14552.35
-2023-08-15|09:10:00|coffee|Starbucks|-6.75|14545.60
-2023-08-18|11:20:00|client payment|Orion LLC|1250.00|15795.60
-2023-08-20|14:05:10|office snacks|Costco|-85.20|15710.40
-2023-08-22|10:15:45|printer paper|Staples|-40.00|15670.40
-2023-08-25|13:30:00|Invoice 2010 paid|Zenith Corp|990.00|16660.40
-2023-08-28|16:40:30|fuel|Shell|-75.00|16585.40
-2023-09-01|08:50:00|software subscription|Adobe|-120.00|16465.40
-2023-09-03|11:10:10|consulting income|BrightEdge|1350.00|17815.40
-2023-09-05|15:25:00|team lunch|Chipotle|-70.50|17744.90
-2023-09-07|09:05:35|parking|City Parking|-22.00|17722.90
-2023-09-10|12:45:00|Invoice 2011 paid|NextWave|880.00|18602.90
-2023-09-12|14:15:20|office decor|IKEA|-210.00|18392.90
-2023-09-15|10:30:00|internet bill|Comcast|-95.00|18297.90
-2023-09-18|13:50:00|client payment|Apex LLC|1020.00|19317.90
-2023-09-20|16:05:45|coffee supplies|Starbucks|-30.25|19287.65
-2023-09-22|09:40:10|ads expense|Google Ads|-250.00|19037.65
-2023-09-25|11:55:00|Invoice 2012 paid|SkyTech|910.00|19947.65
-2023-09-28|15:20:30|cleaning service|CleanCo|-160.00|19787.65
-2023-10-01|08:25:00|fuel|Chevron|-68.00|19719.65
-2023-10-03|12:10:10|client payment|Nova Solutions|1400.00|21119.65
-2023-10-05|14:45:00|team lunch|Subway|-55.75|21063.90
-2023-10-07|09:15:00|office supplies|Walmart|-95.00|20968.90
-2023-10-10|11:30:00|Invoice 2013 paid|Prime Corp|870.00|21838.90
-2023-10-12|16:10:00|software tools|Microsoft|-220.00|21618.90
-2023-10-15|10:00:00|office rent|Landlord|-1200.00|20418.90
-2023-10-18|13:20:00|client payment|Vertex LLC|1500.00|21918.90
-2023-10-20|15:45:00|printer ink|Office Depot|-65.00|21853.90
-2023-10-22|09:35:00|coffee|Starbucks|-8.00|21845.90
-2023-10-25|12:50:00|Invoice 2014 paid|FutureCorp|920.00|22765.90
-2023-10-28|17:10:00|team dinner|Olive Garden|-180.00|22585.90
-2023-11-01|08:20:00|parking|City Parking|-20.00|22565.90
-2023-11-03|11:40:00|client payment|Delta LLC|1100.00|23665.90
-2023-11-05|14:55:00|office snacks|Trader Joe's|-60.00|23605.90
-2023-11-07|09:10:00|software renewal|Adobe|-130.00|23475.90
-2023-11-10|12:25:00|Invoice 2015 paid|BlueSky LLC|980.00|24455.90
-2023-11-12|16:40:00|fuel|Shell|-72.00|24383.90
-2023-11-15|10:15:00|internet bill|Comcast|-90.00|24293.90
-2023-11-18|13:30:00|client payment|Peak Solutions|1450.00|25743.90
-2023-11-20|15:45:00|team lunch|Chipotle|-75.00|25668.90
-2023-11-22|09:50:00|printer paper|Staples|-50.00|25618.90
-2023-11-25|12:05:00|Invoice 2016 paid|BrightPath|910.00|26528.90
-2023-11-28|16:20:00|cleaning service|CleanCo|-155.00|26373.90
-2023-12-01|08:30:00|coffee|Starbucks|-7.50|26366.40
-2023-12-03|11:45:00|client payment|Summit Corp|1600.00|27966.40
-2023-12-05|14:10:00|office supplies|Walmart|-110.00|27856.40
-2023-12-07|09:25:00|software tools|Microsoft|-240.00|27616.40
-2023-12-10|12:40:00|Invoice 2017 paid|NextGen Inc|1000.00|28616.40
-2023-12-12|15:55:00|team dinner|Olive Garden|-190.00|28426.40
-2023-12-15|10:05:00|office rent|Landlord|-1200.00|27226.40
-2023-12-18|13:20:00|final client payment|Apex LLC|1800.00|29026.40
+2024-07-02|09:12:15|opening deposit|Initial Balance|1500.00|1500.00
+2024-07-03|11:45:22|office supplies|Staples|-62.40|1437.60
+2024-07-05|14:10:05|client payment|Acme Corp|1800.00|3237.60
+2024-07-06|08:55:30|coffee|Starbucks|-8.25|3229.35
+2024-07-08|16:20:10|internet bill|Comcast|-95.00|3134.35
+2024-07-12|13:05:45|Invoice 3001 paid|Tech Solutions|950.00|4084.35
+2024-07-15|10:15:00|team lunch|Chipotle|-72.60|4011.75
+2024-07-18|09:40:20|fuel|Chevron|-68.00|3943.75
+2024-07-22|12:30:00|client payment|BlueSky LLC|1200.00|5143.75
+2024-07-25|15:10:35|office snacks|Costco|-95.20|5048.55
+2024-08-01|09:05:10|office rent|Landlord|-1200.00|3848.55
+2024-08-03|11:25:00|client payment|Vertex LLC|1400.00|5248.55
+2024-08-06|08:45:30|coffee|Starbucks|-7.10|5241.45
+2024-08-09|14:15:20|software subscription|Adobe|-130.00|5111.45
+2024-08-12|16:40:00|Invoice 3002 paid|NextGen Inc|875.00|5986.45
+2024-08-15|10:20:00|fuel|Shell|-74.00|5912.45
+2024-08-18|13:50:10|client payment|Delta LLC|1250.00|7162.45
+2024-08-22|15:30:00|team lunch|Subway|-58.90|7103.55
+2024-08-26|09:10:45|office supplies|Walmart|-110.25|6993.30
+2024-09-02|09:00:00|office rent|Landlord|-1200.00|5793.30
+2024-09-04|12:15:30|client payment|Skyline Ltd|1350.00|7143.30
+2024-09-06|08:20:10|coffee|Starbucks|-6.80|7136.50
+2024-09-10|14:40:00|ads expense|Google Ads|-280.00|6856.50
+2024-09-13|11:10:25|Invoice 3003 paid|FutureWorks|910.00|7766.50
+2024-09-16|15:35:45|fuel|Chevron|-70.00|7696.50
+2024-09-20|10:05:00|client payment|Omega Corp|1450.00|9146.50
+2024-09-24|13:25:00|office snacks|Trader Joe's|-65.40|9081.10
+2024-09-28|16:50:00|software tools|Microsoft|-240.00|8841.10
+2024-10-01|09:15:00|office rent|Landlord|-1200.00|7641.10
+2024-10-03|11:45:10|client payment|Nova Corp|1600.00|9241.10
+2024-10-05|14:05:20|team lunch|Chipotle|-82.00|9159.10
+2024-10-08|08:30:00|coffee|Starbucks|-7.75|9151.35
+2024-10-11|12:20:00|Invoice 3004 paid|BrightPath|980.00|10131.35
+2024-10-15|15:40:00|fuel|Shell|-72.50|10058.85
+2024-10-18|10:10:00|client payment|Peak Solutions|1500.00|11558.85
+2024-10-22|13:30:00|office supplies|Staples|-90.00|11468.85
+2024-10-27|16:05:00|cleaning service|CleanCo|-160.00|11308.85
+2024-11-01|09:05:00|office rent|Landlord|-1200.00|10108.85
+2024-11-03|12:40:00|client payment|Orion LLC|1550.00|11658.85
+2024-11-06|08:50:00|coffee|Starbucks|-6.90|11651.95
+2024-11-09|14:20:00|software renewal|Adobe|-135.00|11516.95
+2024-11-12|11:30:00|Invoice 3005 paid|Zenith Corp|920.00|12436.95
+2024-11-16|15:10:00|fuel|Chevron|-69.00|12367.95
+2024-11-20|10:45:00|client payment|Apex LLC|1650.00|14017.95
+2024-11-24|13:15:00|team lunch|Subway|-60.00|13957.95
+2024-11-28|17:00:00|office snacks|Costco|-95.00|13862.95
+2024-12-02|09:00:00|office rent|Landlord|-1200.00|12662.95
+2024-12-04|12:20:00|client payment|Summit Corp|1700.00|14362.95
+2024-12-06|08:35:00|coffee|Starbucks|-7.20|14355.75
+2024-12-10|14:50:00|software tools|Microsoft|-260.00|14095.75
+2024-12-13|11:25:00|Invoice 3006 paid|NextWave|950.00|15045.75
+2024-12-17|15:30:00|fuel|Shell|-75.00|14970.75
+2024-12-20|10:10:00|client payment|BrightEdge|1800.00|16770.75
+2024-12-23|13:40:00|team dinner|Olive Garden|-185.00|16585.75
+2024-12-28|16:10:00|office supplies|Walmart|-120.00|16465.75
+2025-01-02|09:05:00|office rent|Landlord|-1200.00|15265.75
+2025-01-04|12:10:00|client payment|Acme Corp|1600.00|16865.75
+2025-01-06|08:25:00|coffee|Starbucks|-6.95|16858.80
+2025-01-10|14:30:00|ads expense|Google Ads|-300.00|16558.80
+2025-01-13|11:20:00|Invoice 3007 paid|Tech Solutions|980.00|17538.80
+2025-01-17|15:00:00|fuel|Chevron|-70.00|17468.80
+2025-01-21|10:35:00|client payment|Delta LLC|1500.00|18968.80
+2025-01-25|13:10:00|team lunch|Chipotle|-85.00|18883.80
+2025-01-29|16:40:00|office supplies|Staples|-95.00|18788.80
+2025-02-01|09:00:00|office rent|Landlord|-1200.00|17588.80
+2025-02-03|12:20:00|client payment|Vertex LLC|1550.00|19138.80
+2025-02-05|08:40:00|coffee|Starbucks|-7.10|19131.70
+2025-02-09|14:10:00|software subscription|Adobe|-140.00|18991.70
+2025-02-12|11:30:00|Invoice 3008 paid|FutureWorks|1020.00|20011.70
+2025-02-16|15:45:00|fuel|Shell|-76.00|19935.70
+2025-02-20|10:50:00|client payment|Omega Corp|1650.00|21585.70
+2025-02-24|13:30:00|office snacks|Costco|-90.00|21495.70
+2025-02-27|16:15:00|cleaning service|CleanCo|-170.00|21325.70
+2025-03-01|09:05:00|office rent|Landlord|-1200.00|20125.70
+2025-03-03|12:35:00|client payment|Skyline Ltd|1700.00|21825.70
+2025-03-05|08:50:00|coffee|Starbucks|-7.50|21818.20
+2025-03-09|14:20:00|ads expense|Google Ads|-320.00|21498.20
+2025-03-12|11:10:00|Invoice 3009 paid|BrightPath|1100.00|22598.20
+2025-03-16|15:30:00|fuel|Chevron|-72.00|22526.20
+2025-03-20|10:15:00|client payment|Peak Solutions|1750.00|24276.20
+2025-03-24|13:40:00|team lunch|Subway|-65.00|24211.20
+2025-03-28|16:20:00|office supplies|Walmart|-115.00|24096.20
+2025-04-01|09:00:00|office rent|Landlord|-1200.00|22896.20
+2025-04-03|12:25:00|client payment|Nova Corp|1800.00|24696.20
+2025-04-05|08:30:00|coffee|Starbucks|-7.25|24688.95
+2025-04-09|14:15:00|software tools|Microsoft|-260.00|24428.95
+2025-04-12|11:45:00|Invoice 3010 paid|Zenith Corp|1150.00|25578.95
+2025-04-16|15:10:00|fuel|Shell|-78.00|25500.95
+2025-04-20|10:40:00|client payment|Apex LLC|1850.00|27350.95
+2025-04-24|13:15:00|team lunch|Chipotle|-88.00|27262.95
+2025-04-28|16:50:00|office snacks|Trader Joe's|-70.00|27192.95
+2026-01-02|09:00:00|office rent|Landlord|-1300.00|25892.95
+2026-01-04|12:15:00|client payment|Acme Corp|2000.00|27892.95
+2026-01-06|08:20:00|coffee|Starbucks|-8.10|27884.85
+2026-01-10|14:30:00|ads expense|Google Ads|-350.00|27534.85
+2026-01-13|11:20:00|Invoice 4001 paid|Tech Solutions|1200.00|28734.85
+2026-01-18|15:00:00|fuel|Chevron|-80.00|28654.85
+2026-01-22|10:35:00|client payment|Delta LLC|1900.00|30554.85
+2026-01-26|13:10:00|team lunch|Chipotle|-95.00|30459.85
+2026-02-01|09:00:00|office rent|Landlord|-1300.00|29159.85
+2026-02-03|12:20:00|client payment|Vertex LLC|1950.00|31109.85
+2026-02-05|08:40:00|coffee|Starbucks|-8.25|31101.60
+2026-02-09|14:10:00|software subscription|Adobe|-150.00|30951.60
+2026-02-12|11:30:00|Invoice 4002 paid|FutureWorks|1250.00|32201.60
+2026-02-16|15:45:00|fuel|Shell|-82.00|32119.60
+2026-02-20|10:50:00|client payment|Omega Corp|2000.00|34119.60
+2026-02-24|13:30:00|office snacks|Costco|-100.00|34019.60
+2026-03-01|09:05:00|office rent|Landlord|-1300.00|32719.60
+2026-03-03|12:35:00|client payment|Skyline Ltd|2100.00|34819.60
+2026-03-05|08:50:00|coffee|Starbucks|-8.40|34811.20
+2026-03-09|14:20:00|ads expense|Google Ads|-375.00|34436.20
+2026-03-12|11:10:00|Invoice 4003 paid|BrightPath|1350.00|35786.20
+2026-03-16|15:30:00|fuel|Chevron|-85.00|35701.20
+2026-03-20|10:15:00|client payment|Peak Solutions|2200.00|37901.20
+2026-03-24|13:40:00|team lunch|Subway|-72.00|37829.20
+2026-04-01|09:00:00|office rent|Landlord|-1300.00|36529.20
+2026-04-03|12:25:00|client payment|Nova Corp|2300.00|38829.20
+2026-04-05|08:30:00|coffee|Starbucks|-8.50|38820.70
+2026-04-09|14:15:00|software tools|Microsoft|-280.00|38540.70
+2026-04-12|11:45:00|Invoice 4004 paid|Zenith Corp|1400.00|39940.70
+2026-04-16|15:10:00|fuel|Shell|-88.00|39852.70
+2026-04-20|10:40:00|client payment|Apex LLC|2400.00|42252.70
+2026-04-25|13:15:00|team lunch|Chipotle|-95.00|42157.70
+2026-04-29|16:00:00|office supplies|Walmart|-120.00|42037.70
