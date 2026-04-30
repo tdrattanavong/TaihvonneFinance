@@ -42,10 +42,11 @@ public class Main {
             switch (choice) {
 
                 case "D":
+                    depositScreen();
                     System.out.println("Adding deposit");
                     break;
                 case "P":
-
+                    paymentScreen();
                     break;
 
                 case "L":
@@ -53,7 +54,7 @@ public class Main {
                     break;
                 case "X":
                     //end of application
-                    System.out.println("Adios! Bye");
+                    System.out.println("Take Care! Bye");
                     isRunning = false;
                     break;
                 default:
@@ -63,6 +64,18 @@ public class Main {
         } //end of the while loop
 
     }
+
+    static void depositScreen()
+    {
+        System.out.println(" ===Deposit=== ");
+
+    }
+
+    static void paymentScreen()
+    {
+
+    }
+
 
     //ledger Screen
     static void ledgerScreen(){
@@ -224,11 +237,49 @@ public class Main {
 
 
     //TODO: saving transactions to the csv file
-static void saveTransaction(Transaction transaction){
+    public static void saveTransaction()
+    {
+        // log the transaction to the file
+        FileOutputStream fileOutputStream = null;
+        PrintWriter printWriter = null;
 
-        //write(transaction.toString()) when ready to write
+        try
+        {
+            fileOutputStream = new FileOutputStream("transactions.csv", true);
+            printWriter = new PrintWriter(fileOutputStream);
+
+            printWriter.printf("%s|%s|%s|%s|%.2f%n",
+                    LocalDate.now(),
+                    LocalTime.now().withNano(0),
+                    description,
+                    vendor,
+                    amount);
+
+            System.out.println("Transaction logged successfully.");
+        }
+        catch (FileNotFoundException e)
+        {
+            System.err.println(e.getMessage());
+        }
+        finally
+        {
+            if (printWriter != null)
+            {
+                printWriter.close();
+            }
+            if (fileOutputStream != null)
+            {
+                try
+                {
+                    fileOutputStream.close();
+                }
+                catch (IOException e)
+                {
+                    System.err.println(e.getMessage());
+                }
+            }
+        }
+    }
+    //write(transaction.toString()) when ready to write
     //or just write(transaction)
-}
-
-
 }
