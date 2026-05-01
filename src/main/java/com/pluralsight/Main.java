@@ -74,7 +74,7 @@ public class Main {
 
     static void paymentScreen()
     {
-
+        System.out.println(" ===Payment=== ");
     }
 
 
@@ -97,7 +97,8 @@ public class Main {
                     displayTransactions(loadTransactions());
                     break;
                 case "D":
-
+                    System.out.println("Showing all Deposits");
+                    viewDeposits();
                     break;
                 case "P":
                     System.out.println("Showing all Payments");
@@ -118,25 +119,40 @@ public class Main {
     static void reportsScreen(){
         while(isRunning) {
             System.out.println("""
-                    
-                    
-                    
-                    
-                    B - Back
-                    H - Return Home
+                    1) Month To Date
+                    ▪ 2) Previous Month
+                    ▪ 3) Year To Date
+                    ▪ 4) Previous Year
+                    ▪ 5) Search by Vendor - prompt the user for the vendor name and
+                    display all entries for that vendor
+                    ▪ 0) Back - go back to the Ledger page
                     """);
 
             String choice = scanner.nextLine().trim().toUpperCase();
             switch (choice) {
-
-                case "B":
+                case "1":
                     System.out.println("Back to Ledger Menu");
-                    ledgerScreen();
+                    break;
+                case "2":
+                    System.out.println("Back to Ledger Menu");
+                    break;
+                case "3":
+                    System.out.println("Back to Ledger Menu");
+                    break;
+                case "4":
+                    System.out.println("Back to Ledger Menu");
+                    break;
+                case "5":
+                    System.out.println("Back to Ledger Menu");
+                    break;
+                case "0":
+                    System.out.println("Back to Ledger Menu");
                     break;
                 case "H":
                     System.out.println("Returning to Home Menu");
                     homeScreen();
                     break;
+
             }
         }
     }
@@ -203,7 +219,20 @@ public class Main {
     }
 
     // TODO: view All deposits
+    static void viewDeposits(){
+        //making a temporary array list to hold transactions that are  payments
+        ArrayList<Transaction> tempPayArr = new ArrayList<>();
 
+        for(Transaction item: loadTransactions()){
+            if(item.getAmount() > 0){
+                tempPayArr.add(item);
+            }
+        }
+
+        //after we've added all the payment transactions to the tempPayArr
+        //we can display those transactions
+        displayTransactions(tempPayArr);
+    }
 
     //loading transactions from the transactions.csv file
     static ArrayList<Transaction> loadTransactions(){
