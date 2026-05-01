@@ -1,7 +1,8 @@
 package com.pluralsight;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
@@ -237,47 +238,26 @@ public class Main {
 
 
     //TODO: saving transactions to the csv file
-    public static void saveTransaction()
+    public static void saveTransaction(Transaction transaction)
     {
-        // log the transaction to the file
-        FileOutputStream fileOutputStream = null;
-        PrintWriter printWriter = null;
+        String fileName = "Testingtransactions.csv";
+        Path path = Path.of(fileName);
 
-        try
+
+        try(BufferedWriter writer = new BufferedWriter(new FileWriter(fileName)))
         {
-            fileOutputStream = new FileOutputStream("transactions.csv", true);
-            printWriter = new PrintWriter(fileOutputStream);
+            if(!Files.exists(path)) {
+                writer.write("date|time|description|vendor|amount|balance");
+            }
 
-            printWriter.printf("%s|%s|%s|%s|%.2f%n",
-                    LocalDate.now(),
-                    LocalTime.now().withNano(0),
-                    description,
-                    vendor,
-                    amount);
+            writer.write(transaction.toString());
 
             System.out.println("Transaction logged successfully.");
+
         }
-        catch (FileNotFoundException e)
+        catch (Exception e)
         {
             System.err.println(e.getMessage());
-        }
-        finally
-        {
-            if (printWriter != null)
-            {
-                printWriter.close();
-            }
-            if (fileOutputStream != null)
-            {
-                try
-                {
-                    fileOutputStream.close();
-                }
-                catch (IOException e)
-                {
-                    System.err.println(e.getMessage());
-                }
-            }
         }
     }
     //write(transaction.toString()) when ready to write
